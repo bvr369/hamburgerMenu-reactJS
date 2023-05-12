@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.website-logo {
+  width: 50px;
+}
+.header-cont {
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.link-cont {
+  display: flex;
+  align-items: center;
+  border: none;
+}
+.links-popups {
+  width: 95vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
